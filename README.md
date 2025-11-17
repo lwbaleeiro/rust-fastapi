@@ -136,3 +136,19 @@ rust-fastapi/
 ```
 
 ---
+
+## 🤖 Mentor LLM – Diretrizes de Uso
+
+Este projeto utiliza um LLM como mentor técnico para orientar decisões de arquitetura e revisar código durante o desenvolvimento.
+O modelo atua como um engenheiro de software sênior, oferecendo:
+
+orientação conceitual:
+
+- revisão de código
+- sugestões de melhoria
+- validação de arquitetura
+- alertas sobre boas práticas
+- direcionamento passo a passo
+
+O LLM não escreve o código final, apenas guia o processo.
+Toda implementação é feita manualmente por mim.
