@@ -22,26 +22,26 @@
 **Card: Create Rust Project**
 Checklist:
 
-* Initialize cargo project
-* Add Axum, SQLx, Tokio, Tracing
-* Configure workspace layout
+* Initialize cargo project [Ok]
+* Add Axum, SQLx, Tokio, Tracing [Ok]
+* Configure workspace layout [Ok]
 
 ---
 
 **Card: Create Folder Structure**
 Checklist:
 
-* Create modules: api, domain, application, infra
-* Create migrations folder
-* Setup initial files
+* Create modules: api, domain, application, infra [Ok]
+* Create migrations folder [Ok]
+* Setup initial files [Ok]
 
 ---
 
 **Card: Environment Configuration (.env)**
 Checklist:
 
-* Create .env.example
-* Add DB_URL, JWT_SECRET, PORT
+* Create .env.example [Ok]
+* Add DB_URL, JWT_SECRET, PORT [Ok]
 * Implement config loader
 
 ---
